@@ -1,7 +1,7 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
+  title: Yance
   description: Welcome to your new dashboard!
   navLinks:
   - title: GitHub
@@ -15,7 +15,7 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
-- name: Getting Started
+- name: Yance
   icon: fas fa-rocket
   items:
   - title: Dashy Live
